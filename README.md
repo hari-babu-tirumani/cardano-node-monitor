@@ -115,6 +115,6 @@ Feel free to open issues or submit pull requests. I'm always looking to improve 
 
 ## Contact
 
-Built by Hari Babu Tirumani - tirumaniharibabu575@gmail.com
+**Built by Hari Babu Tirumani** - tirumaniharibabu575@gmail.com
 
 This project showcases my skills for blockchain infrastructure roles, particularly at companies like Blink Labs that focus on Cardano ecosystem tooling.
